@@ -1,8 +1,5 @@
 # Lebenslauf
 _________________________________________________________________________________
-<div style="color: black; padding: 1rem; background-color: #86dcebff; border: 1px solid #bee5eb; border-radius: 4px; margin: 1rem 0;">
-  <strong>💡 Info:</strong> Dies ist eine Info-Warnmeldung!
-</div>
 
 *Sehr geehrte Interessentin,  
 sehr geehrter Interessent,*
@@ -34,7 +31,7 @@ IHK-Abschluss mit Note **2,0**
 >**Praktikum Agentur für Webentwicklung und Grafikdesign, Berlin**  
 • Datenaktualisierung eines Onlineshops (CMS Wordpress)  
 • Datenbankmodellierung für die Verwaltung eines Vereins  
-<span style="display: inline-block; text-indent: -0.7em; padding-left: 0.7em">• Selbständige Planung, Durchführung und Dokumentation des betrieblichen Projekts 'Erstellung einer Automatisierungslösung zur Extrahierung und Bereitstellung von Produktdaten für einen Onlineshop' (Webscraping in Python mit BeautifulSoup und Selenium)</span>
+• Selbständige Planung, Durchführung und Dokumentation des betrieblichen Projekts 'Erstellung einer Automatisierungslösung zur Extrahierung und Bereitstellung von Produktdaten für einen Onlineshop' (Webscraping in Python mit BeautifulSoup und Selenium)
 
 12/2021 – 12/2022
 
@@ -111,22 +108,22 @@ ________________________________________________________________________________
 >**Agentur für Webentwicklung und Grafikdesign, Berlin**  
 • Datenaktualisierung eines Onlineshops (CMS Wordpress)  
 • Datenbankmodellierung für die Verwaltung eines Vereins  
-<span style="display: inline-block; text-indent: -0.7em; padding-left: 0.7em">• Selbständige Planung, Durchführung und Dokumentation des betrieblichen Projekts 'Erstellung einer Automatisierungslösung zur Extrahierung und Bereitstellung von Produktdaten für einen Onlineshop' (Webscraping in Python mit BeautifulSoup und Selenium)</span>
+• Selbständige Planung, Durchführung und Dokumentation des betrieblichen Projekts 'Erstellung einer Automatisierungslösung zur Extrahierung und Bereitstellung von Produktdaten für einen Onlineshop' (Webscraping in Python mit BeautifulSoup und Selenium)
 
 09/2022
 
 >**Unternehmen im Bereich Umweltanalytik Boden- und Gewässerschutz, Berlin**  
-<span style="display: inline-block; text-indent: -0.7em; padding-left: 0.7em">• Mitarbeit bei Probennahme und -aufbereitung, im Labor und in der Verwaltung</span>
+• Mitarbeit bei Probennahme und -aufbereitung, im Labor und in der Verwaltung
 
 06/2002 - 10/2002
 
 >**Baumschule, Großbritannien**  
-<span style="display: inline-block; text-indent: -0.7em; padding-left: 0.7em">• Mitarbeit im Gartencenter und Produktionsbetrieb (Anzucht, Pflege, Versand)</span>
+• Mitarbeit im Gartencenter und Produktionsbetrieb (Anzucht, Pflege, Versand)
 
 03/2002 - 05/2002
 
 >**Baumschule, Hamburg**  
-<span style="display: inline-block; text-indent: -0.7em; padding-left: 0.7em">• Mitarbeit in der Produktion von Großgehölzen (Anzucht, Pflege, Versand)</span>
+• Mitarbeit in der Produktion von Großgehölzen (Anzucht, Pflege, Versand)</span>
 
 07/1997 - 08/1997  
 
@@ -183,19 +180,3 @@ ________________________________________________________________________________
   
     
 Berlin im Oktober 2025
-
-<span style="display: inline-block; padding: 0.25rem 0.5rem; font-size: 0.75rem; background-color: #007bff; color: white; border-radius: 30px;">
-  Java
-</span>
-<span style="display: inline-block; padding: 0.25rem 0.5rem; font-size: 0.75rem; background-color: #28a745; color: white; border-radius: 3px;">
-  JavaScript
-</span>
-<span style="display: inline-block; padding: 0.25rem 0.5rem; font-size: 0.75rem; background-color: #ffc107; color: black; border-radius: 5px;">
-  Python
-</span>
-<span style="display: inline-block; padding: 0.25rem 0.5rem; font-size: 0.75rem; background-color: #07b9ffff; color: black; border-radius: 5px;">
-  React
-</span>
-<span style="display: inline-block; padding: 0.25rem 0.5rem; font-size: 0.75rem; background-color: #ff7707ff; color: black; border-radius: 1px;">
-  SQL
-</span>
