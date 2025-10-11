@@ -123,7 +123,7 @@ ________________________________________________________________________________
 03/2002 - 05/2002
 
 >**Baumschule, Hamburg**  
-• Mitarbeit in der Produktion von Großgehölzen (Anzucht, Pflege, Versand)</span>
+• Mitarbeit in der Produktion von Großgehölzen (Anzucht, Pflege, Versand)
 
 07/1997 - 08/1997  
 
