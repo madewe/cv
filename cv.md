@@ -156,7 +156,8 @@ EDV
 • SAP S/4HANA 
 
 >• aktuell eigenverantwortliche Fortbildung in Fullstack-Programmierung:  
-MOOC-Kurs der University of Helsinki - Full Stack Open (JavaScript, React, Node.js, Express, REST, Deployment, MongoDB)
+MOOC-Kurs der University of Helsinki - Full Stack Open  
+JavaScript, React, Node.js, Express, REST, Deployment, MongoDB
 
 Sprachen
 
