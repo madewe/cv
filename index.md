@@ -153,7 +153,10 @@ EDV
 • Bildbearbeitung Photoshop, Gimp  
 • Kanzleisoftware Datev  
 • Buchhandelssoftware Bookhit  
-• SAP S/4HANA  
+• SAP S/4HANA
+
+>• aktuell eigenverantwortliche Fortbildung in Fullstack-Programmierung:  
+MOOC-Kurs der University of Helsinki - Full Stack Open (JavaScript, React, Node.js, Express, REST, Deployment, MongoDB)
 
 Sprachen
 
@@ -167,7 +170,7 @@ Sprachen
 
 Sonstiges
 
->• Führerschein Klasse 3  
+>• Führerschein Klasse B bzw. ehemals Klasse 3    
 • Sportbootführerschein Binnen
 
 _________________________________________________________________________________
@@ -179,4 +182,4 @@ Private Interessen
 _________________________________________________________________________________
   
     
-Berlin im Oktober 2025
+Berlin im November 2025
