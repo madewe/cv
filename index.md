@@ -8,7 +8,7 @@ sehr geehrter Interessent,*
 
 *Aktuell bin ich auf der Suche nach einer Junior-Anstellung im Bereich der Software-Entwicklung.*
 
-*Sollten Sie weiteres Interesse daran haben, mit mir eine weltoffene, humorvolle Kollegin mit ruhigem Wesen, guter analytischer Auffassungsgabe und großem Spaß an IT-Themen für Ihr Team zu gewinnen, stelle ich Ihnen selbstverständlich meinen vollständigen Lebenslauf inklusive weiterer Bewerbungsunterlagen zur Verfügung. Bitte nehmen Sie Kontakt auf!*
+*Sollten Sie Interesse daran haben, mit mir eine weltoffene, humorvolle Kollegin mit ruhigem Wesen, schneller analytischer Auffassungsgabe und großem Spaß an IT-Themen für Ihr Team zu gewinnen, stelle ich Ihnen selbstverständlich gerne meinen vollständigen Lebenslauf inklusive weiterer Bewerbungsunterlagen zur Verfügung. Bitte nehmen Sie Kontakt auf!*
 
 Kontakt: mademade@duck.com
 _________________________________________________________________________________________
@@ -31,7 +31,8 @@ IHK-Abschluss mit Note **2,0**
 >**Praktikum Agentur für Webentwicklung und Grafikdesign, Berlin**  
 • Datenaktualisierung eines Onlineshops (CMS Wordpress)  
 • Datenbankmodellierung für die Verwaltung eines Vereins  
-• Selbständige Planung, Durchführung und Dokumentation des betrieblichen Projekts 'Erstellung einer Automatisierungslösung zur Extrahierung und Bereitstellung von Produktdaten für einen Onlineshop' (Webscraping in Python mit BeautifulSoup und Selenium)
+• Selbständige Planung, Durchführung und Dokumentation des betrieblichen Projekts 'Erstellung einer Automatisierungslösung zur Extrahierung und Bereitstellung von Produktdaten für einen Onlineshop' (Webscraping inklusive Browser-Automatisierung 
+in Python mit BeautifulSoup und Selenium)
 
 12/2021 – 12/2022
 
@@ -108,7 +109,8 @@ ________________________________________________________________________________
 >**Agentur für Webentwicklung und Grafikdesign, Berlin**  
 • Datenaktualisierung eines Onlineshops (CMS Wordpress)  
 • Datenbankmodellierung für die Verwaltung eines Vereins  
-• Selbständige Planung, Durchführung und Dokumentation des betrieblichen Projekts 'Erstellung einer Automatisierungslösung zur Extrahierung und Bereitstellung von Produktdaten für einen Onlineshop' (Webscraping in Python mit BeautifulSoup und Selenium)
+• Selbständige Planung, Durchführung und Dokumentation des betrieblichen Projekts 'Erstellung einer Automatisierungslösung zur Extrahierung und Bereitstellung von Produktdaten für einen Onlineshop' (Webscraping inklusive Browser-Automatisierung 
+in Python mit BeautifulSoup und Selenium)
 
 09/2022
 
@@ -183,4 +185,4 @@ Private Interessen
 _________________________________________________________________________________
   
     
-Berlin im November 2025
+Berlin im März 2026
